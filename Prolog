@@ -28,7 +28,9 @@ laufen mit Eimern zum Brunnen.
 Wahl 1: Greife einen Eimer und schöpfe Wasser um den Brand zu bekämpfen.
         ID 4
 
-Wahl 2: Gehe zurück zur Schmiede und sehe nach deiner Familie
+Wahl 2: Gehe zurück zur Schmiede und sehe nach deiner Familie.
         ID 5
         
 ID 3
+"Also gut, Schmied. Aber das wird nicht ohne Folgen bleiben", sagt der übelriechende Scherge und verschwindet mit 
+finsterer Miene. Du holst ein Paar Dolche und Schwerter und machst dich auf zum Markt
