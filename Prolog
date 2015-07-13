@@ -1,3 +1,34 @@
 Prolog
 
-Wir schreiben das Jahr 1172, eine düstere Zeit für das kleine Königreich 
+ID 1
+Wir schreiben das Jahr 1172, eine düstere Zeit für das kleine Königreich Eisenland. 
+Der verrückte König Friedrich IX. terrorisiert das Land und die Einwohner leiden unter seiner Schreckensherschaft.
+Du bist ein junger Schmied am Hofe des Königs und lebst mit deiner Frau und deinem kleinen Sohn ein, im Vergleich zu
+den meisten Anderen ein recht friedliches Leben. Doch an einem schicksalhaften Tag im Herbst veränderte sich alles.
+Ein Scherge des Königs erwartet dich vor der Tür deiner Hütte und verlangt eine Steuervorzahlung. Das Geschäft lief 
+schlecht in letzter Zeit und du kannst nicht zahlen. 
+
+Antwort 1: Ich habe kein Geld. Das Geschäft läuft schlecht und meine Familie wird kaum durch den Winter kommen.
+           Ich bitte euch um etwas Aufschub, Herr.
+           To ID 2
+
+Antwort 2: Lasst mich nur schnell zum Markt gehen. Ich werde Versuchen ein Paar meiner Klingen an den Mann zu bekommen.
+           Ich werde es dem König direkt an den Hof bringen, Herr.
+           To ID 3
+
+
+ID 2
+"Eure Familie wird also nicht durch den Winter kommen. In diesem Falle haben wir natürlich Nachsicht, Schmied", sagt der 
+bewaffnete Scherge und verlässt die Schmiede hämisch lachend. 
+Mit gemischten Gefühlen, aber dennoch glücklich über den Aufschub machst du dich auf zum Marktplatz, um etwas essbares 
+für den Abend zu kaufen. Nach etwa einer halben Stunde, einigen guten Angeboten und mit Gemüse und Brot gefüllten Taschen
+willst du nach Hause zurückkehren, als du die Feuerglocke läuten hörst. Die Leute geraten in hellen Aufruhr und einige 
+laufen mit Eimern zum Brunnen.
+
+Wahl 1: Greife einen Eimer und schöpfe Wasser um den Brand zu bekämpfen.
+        ID 4
+
+Wahl 2: Gehe zurück zur Schmiede und sehe nach deiner Familie
+        ID 5
+        
+ID 3
