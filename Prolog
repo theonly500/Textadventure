@@ -33,4 +33,34 @@ Wahl 2: Gehe zurück zur Schmiede und sehe nach deiner Familie.
         
 ID 3
 "Also gut, Schmied. Aber das wird nicht ohne Folgen bleiben", sagt der übelriechende Scherge und verschwindet mit 
-finsterer Miene. Du holst ein Paar Dolche und Schwerter und machst dich auf zum Markt
+finsterer Miene. Du holst ein Paar Dolche und Schwerter und machst dich auf zum Markt. Als du einige von ihnen verkauft
+hast begibst du dich zur Burg um deine Schulden zu begleichen. Auf halbem Weg ereilt dich das schrille Geläut der 
+Feuerglocken. Einige Leute stürzen mit Eimern zu den Brunnen und anschließend in Richtung des Brandherdes.
+
+
+Wahl 1: Greife einen Eimer und schöpfe Wasser um den Brand zu bekämpfen.
+        ID 4
+
+Wahl 2: Gehe zurück zur Schmiede und sehe nach deiner Familie.
+        ID 5
+        
+Wahl 3: Gehe weiter zur Burg und bezahle die Steuern.
+        ID 6
+        
+ID 4
+Du rennst zum Brunnen und packst den nächsten Eimer. Mit vielen Anderen schöpfst du aus dem Brunnen und rennst
+ihnen nach. Du kommst der Rauchwolke die sich über dem Brand bildet immer näher und dich beschleicht eine leise 
+Vorahnung, die dich noch schneller vorrantreibt. 
+        
+ID 6
+Du betritst die Stube des Schatzmeisters und gibst ihm die beiden Silbermünzen die du auf dem Markt erhalten hast.
+"Und jetzt zieh Leine du räudiger Hund. Beim nächsten mal zahlst du gefälligst früher. Falls es ein nächstes mal
+geben wird.", grunzt der miesgelaunte Schatzmeister. Beim gehen fällt dir eine ungewöhnliche Kette auf. Ein bronzenes
+Fünfeck in dessen Mitte ein Auge aufgeprägt ist. Es ist durch Linien mit den fünf Ecken verbunden. Als du auf die Straße
+hinaus trittst, läuten immernoch die Feuerglocken.
+
+Wahl 1: Begib dich zum Brunnen und greife einen Eimer um Wasser zu schöpfen.
+        ID 4
+
+Wahl 2: Gehe zurück zur Schmiede und sehe nach deiner Familie.
+        ID 5
