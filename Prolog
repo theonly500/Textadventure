@@ -50,8 +50,29 @@ Wahl 3: Gehe weiter zur Burg und bezahle die Steuern.
 ID 4
 Du rennst zum Brunnen und packst den nächsten Eimer. Mit vielen Anderen schöpfst du aus dem Brunnen und rennst
 ihnen nach. Du kommst der Rauchwolke die sich über dem Brand bildet immer näher und dich beschleicht eine leise 
-Vorahnung, die dich noch schneller vorrantreibt. 
+Vorahnung, die dich noch schneller vorrantreibt. Als dir die Wärme der Flammenzungen ins Geschicht schlägt stehst du
+vor deiner eigenen Schmiede. Das Haus brennt lichterloh und die Flammen schlagen aus jedem Fenster. Du kippst 
+das Wasser in den nächstbesten Brandherd, als du die die Stimmen deiner Frau und deines Sohnes hörst.
+
+Wahl 1: Folge der Stimme deines Sohnes ins Feuer.
+        ID 7
+
+Wahl 2: Folge der Stimme deiner Frau ins Feuer.
+        ID 8
         
+ID 5
+Du rennst nach Hause und bemerkst bald, dass all die Leute mit Eimern in die selbe Richtung laufen wie du.
+Du kommst der Rauchwolke die sich über dem Brand bildet immer näher und dich beschleicht eine leise Vorahnung, 
+die dich noch schneller vorrantreibt. Als dir die Wärme der Flammenzungen ins Geschicht schlägt stehst du
+vor deiner eigenen Schmiede. Das Haus brennt lichterloh und die Flammen schlagen aus jedem Fenster.
+Du hörst die Stimmen deiner Frau und deines Sohnes aus dem Feuer.
+
+Wahl 1: Folge der Stimme deines Sohnes ins Feuer.
+        ID 7
+
+Wahl 2: Folge der Stimme deiner Frau ins Feuer.
+        ID 8
+
 ID 6
 Du betritst die Stube des Schatzmeisters und gibst ihm die beiden Silbermünzen die du auf dem Markt erhalten hast.
 "Und jetzt zieh Leine du räudiger Hund. Beim nächsten mal zahlst du gefälligst früher. Falls es ein nächstes mal
@@ -64,3 +85,34 @@ Wahl 1: Begib dich zum Brunnen und greife einen Eimer um Wasser zu schöpfen.
 
 Wahl 2: Gehe zurück zur Schmiede und sehe nach deiner Familie.
         ID 5
+
+ID 7
+Du stürzt ins brennende Haus, immer der Stimme deines Sohnes Karl nach. Dachbalken stürzen herab, doch du erreichst ihn
+stark hustend. Du nimmst den halbtoten Jungen in deine Arme und trägst ihn zum Eingang, wo du ihn absetzt. Erneut begibst
+du dich ins Flammenmeer, diesmal der Stimme deiner Frau folgend. Dann plötzlich ein lautes Knarren. Ein dumpfer Schlag -
+
+Wahl 1: Weiter
+        ID 9
+        
+ID 8
+Du stürzt ins brennende Haus, immer der Stimme deiner Frau nach. Die Dachbalken knarren, der Rauch macht das Atmen 
+schwer und du siehst fast die Hand vor Augen nicht. Dann plötzlich ein lautes Knarren. Ein dumpfer Schlag -
+
+Wahl 1: Weiter
+        ID 9
+        
+ID 9
+Ein kleiner Junge kriecht aus den Trümmern. Das Gesicht rußverschmiert, die Arme von Verbrennungen übersäht.
+Er wankt irritiert von der Schmiede weg und streicht sich das lange, glatte, schwarze Haar aus dem Gesicht. 
+Zu Boden gesunken sieht er sich um und erblickt einen großgewachsenen Mann in edler Rüstung der mit verschränkten
+Armen zufrieden in die Flammen lächelt. Der Junge mustert ihn. Der Griff seines Schwertes fällt ihm besonders auf.
+Er ist geziert von einem bronzenen Fünfeck in dessen Mitte ein Auge aufgeprägt ist. Es ist durch Linien mit den
+fünf Ecken verbunden. Ein Zeichen das er noch nie zuvor gesehen hatte. Der Mann dreht sich um und geht, gefolgt von 
+vier Wachen mit identischen Lederrüstungen und vermummten Gesichtern.
+Im Morgengrauen ist von dem Haus nur noch eine am Boden lodernde Glut übrig. Die Schmiede ist völlig zerstört und 
+der Junge sitzt noch immer einsam davor. Er steht auf und geht auf sein niedergebranntes Heim zu, den Blick starr
+auf ein Schwert gerichtet, dass den Brand überlebt hat. Er zieht es aus der Asche und stapft der aufgehenden, roten
+Sonne entgegen.
+
+Wahl 1: Weiter zu Akt I
+        ID 10
