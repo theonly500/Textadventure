@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>1</id>
+	<text>Wir schreiben das Jahr 1172, eine düstere Zeit für das kleine Königreich Eisenland. 
+  Der verrückte König Friedrich IX. terrorisiert das Land und die Einwohner leiden unter seiner Schreckensherschaft.
+  Du bist ein junger Schmied am Hofe des Königs und lebst mit deiner Frau und deinem kleinen Sohn ein, im Vergleich zu
+  den meisten Anderen ein recht friedliches Leben. Doch an einem schicksalhaften Tag im Herbst veränderte sich alles.
+  Ein Scherge des Königs erwartet dich vor der Tür deiner Hütte und verlangt eine Steuervorzahlung. Das Geschäft lief 
+  schlecht in letzter Zeit und du kannst nicht zahlen.</text>
+	<optionCount>2</optionCount>
+	<option1>
+		<text>Ich habe kein Geld. Das Geschäft läuft schlecht und meine Familie wird kaum durch den Winter kommen.
+           Ich bitte euch um etwas Aufschub, Herr.</text>
+		<result>2</result>
+	</option1>
+	<option2>
+		<text>Lasst mich nur schnell zum Markt gehen. Ich werde Versuchen ein Paar meiner Klingen an den Mann zu bekommen.
+           Ich werde es dem König direkt an den Hof bringen, Herr.</text>
+		<result>3</result>
+	</option2> 
+</screen> 

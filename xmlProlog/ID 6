@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>6</id>
+	<text>Du betritst die Stube des Schatzmeisters und gibst ihm die beiden Silbermünzen die du auf dem Markt erhalten hast.
+	"Und jetzt zieh Leine du räudiger Hund. Beim nächsten mal zahlst du gefälligst früher. Falls es ein nächstes mal
+	geben wird.", grunzt der miesgelaunte Schatzmeister. Beim gehen fällt dir eine ungewöhnliche Kette auf. Ein bronzenes
+	Fünfeck in dessen Mitte ein Auge aufgeprägt ist. Es ist durch Linien mit den fünf Ecken verbunden. Als du auf die Straße
+	hinaus trittst, läuten immernoch die Feuerglocken.</text>
+	<optionCount>2</optionCount>
+	<option1>
+		<text>Begib dich zum Brunnen und greife einen Eimer um Wasser zu schöpfen.</text>
+		<result>4</result>
+	</option1>
+	<option2>
+		<text>Gehe zurück zur Schmiede und sehe nach deiner Familie.</text>
+		<result>5</result>
+	</option2> 
+</screen> 

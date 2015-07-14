@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>5</id>
+	<text>Du rennst nach Hause und bemerkst bald, dass all die Leute mit Eimern in die selbe Richtung laufen wie du.
+	Du kommst der Rauchwolke die sich über dem Brand bildet immer näher und dich beschleicht eine leise Vorahnung, 
+	die dich noch schneller vorrantreibt. Als dir die Wärme der Flammenzungen ins Geschicht schlägt stehst du
+	vor deiner eigenen Schmiede. Das Haus brennt lichterloh und die Flammen schlagen aus jedem Fenster.
+	Du hörst die Stimmen deiner Frau und deines Sohnes aus dem Feuer.</text>
+	<optionCount>2</optionCount>
+	<option1>
+		<text>Folge der Stimme deines Sohnes ins Feuer.</text>
+		<result>7</result>
+	</option1>
+	<option2>
+		<text>Folge der Stimme deiner Frau ins Feuer.</text>
+		<result>8</result>
+	</option2>
+</screen> 

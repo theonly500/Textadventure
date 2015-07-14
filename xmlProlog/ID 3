@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>3</id>
+	<text>"Also gut, Schmied. Aber das wird nicht ohne Folgen bleiben", sagt der übelriechende Scherge und verschwindet mit 
+	finsterer Miene. Du holst ein Paar Dolche und Schwerter und machst dich auf zum Markt. Als du einige von ihnen verkauft
+	hast begibst du dich zur Burg um deine Schulden zu begleichen. Auf halbem Weg ereilt dich das schrille Geläut der 
+	Feuerglocken. Einige Leute stürzen mit Eimern zu den Brunnen und anschließend in Richtung des Brandherdes.</text>
+	<optionCount>3</optionCount>
+	<option1>
+		<text>Greife einen Eimer und schöpfe Wasser um den Brand zu bekämpfen.</text>
+		<result>4</result>
+	</option1>
+	<option2>
+		<text>Gehe zurück zur Schmiede und sehe nach deiner Familie.</text>
+		<result>5</result>
+	</option2> 
+	<option3>
+		<text>Gehe weiter zur Burg und bezahle die Steuern.</text>
+		<result>6</result>
+	</option3>
+</screen> 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>8</id>
+	<text>Du stürzt ins brennende Haus, immer der Stimme deiner Frau nach. Die Dachbalken knarren, der Rauch macht das Atmen 
+	schwer und du siehst fast die Hand vor Augen nicht. Dann plötzlich ein lautes Knarren. Ein dumpfer Schlag -</text>
+	<optionCount>1</optionCount>
+	<option1>
+		<text>Weiter</text>
+		<result>9</result>
+	</option1>
+</screen> 

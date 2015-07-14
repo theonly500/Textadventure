@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>9</id>
+	<text>Ein kleiner Junge kriecht aus den Trümmern. Das Gesicht rußverschmiert, die Arme von Verbrennungen übersäht.
+	Er wankt irritiert von der Schmiede weg und streicht sich das lange, glatte, schwarze Haar aus dem Gesicht. 
+	Zu Boden gesunken sieht er sich um und erblickt einen großgewachsenen Mann in edler Rüstung, der mit verschränkten
+	Armen zufrieden in die Flammen lächelt. Der Junge mustert ihn. Der Griff seines Schwertes fällt ihm besonders auf.
+	Er ist geziert von einem bronzenen Fünfeck in dessen Mitte ein Auge aufgeprägt ist. Es ist durch Linien mit den
+	fünf Ecken verbunden. Ein Zeichen das er noch nie zuvor gesehen hatte. Der Mann dreht sich um und geht, gefolgt von 
+	vier Wachen mit identischen Lederrüstungen und vermummten Gesichtern.
+	Im Morgengrauen ist von dem Haus nur noch eine am Boden lodernde Glut übrig. Die Schmiede ist völlig zerstört und 
+	der Junge sitzt noch immer einsam davor. Er steht auf und geht auf sein niedergebranntes Heim zu, den Blick starr
+	auf ein Schwert gerichtet, das den Brand überlebt hat. Er zieht es aus der Asche und stapft der aufgehenden, roten
+	Sonne entgegen.</text>
+	<optionCount>3</optionCount>
+	<option1>
+		<text>Weiter</text>
+		<result>10</result>
+	</option1>
+</screen> 

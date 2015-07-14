@@ -1,0 +1,22 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>2</id>
+	<text>"Eure Familie wird also nicht durch den Winter kommen. In diesem Falle haben wir natürlich Nachsicht, Schmied", sagt der 
+	bewaffnete Scherge und verlässt die Schmiede hämisch lachend. 
+	Mit gemischten Gefühlen, aber dennoch glücklich über den Aufschub machst du dich auf zum Marktplatz, um etwas essbares 
+	für den Abend zu kaufen. Nach etwa einer halben Stunde, einigen guten Angeboten und mit Gemüse und Brot gefüllten Taschen
+	willst du nach Hause zurückkehren, als du die Feuerglocke läuten hörst. Die Leute geraten in hellen Aufruhr und einige 
+	laufen mit Eimern zum Brunnen.</text>
+	<optionCount>2</optionCount>
+	<option1>
+		<text>Greife einen Eimer und schöpfe Wasser um den Brand zu bekämpfen.</text>
+		<result>4</result>
+	</option1>
+	<option2>
+		<text>Gehe zurück zur Schmiede und sehe nach deiner Familie.</text>
+		<result>5</result>
+	</option2> 
+
+</screen> 

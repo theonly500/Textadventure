@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>7</id>
+	<text>Du stürzt ins brennende Haus, immer der Stimme deines Sohnes Karl nach. Dachbalken stürzen herab, doch du erreichst ihn
+	stark hustend. Du nimmst den halbtoten Jungen in deine Arme und trägst ihn zum Eingang, wo du ihn absetzt. Erneut begibst
+	du dich ins Flammenmeer, diesmal der Stimme deiner Frau folgend. Dann plötzlich ein lautes Knarren. Ein dumpfer Schlag -</text>
+	<optionCount>1</optionCount>
+	<option1>
+		<text>Weiter</text>
+		<result>9</result>
+	</option1>
+</screen> 
