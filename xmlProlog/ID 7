@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<screen>
+	<id>1</id>
+	<text>es war einmal...</text>
+	<optionCount>3</optionCount>
+	<option1>
+		<text>gehe rechts</text>
+		<result>2</result>
+	</option1>
+	<option2>
+		<text>gehe links</text>
+		<result>3</result>
+	</option2> 
+	<option3>
+		<text>selbstmord</text>
+		<result>4</result>
+	</option3>
+</screen> 
