@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <screen>
-	<id>1</id>
-	<text>es war einmal...</text>
-	<optionCount>3</optionCount>
+	<id>5</id>
+	<text>Du rennst nach Hause und bemerkst bald, dass all die Leute mit Eimern in die selbe Richtung laufen wie du.
+	Du kommst der Rauchwolke die sich über dem Brand bildet immer näher und dich beschleicht eine leise Vorahnung, 
+	die dich noch schneller vorrantreibt. Als dir die Wärme der Flammenzungen ins Geschicht schlägt stehst du
+	vor deiner eigenen Schmiede. Das Haus brennt lichterloh und die Flammen schlagen aus jedem Fenster.
+	Du hörst die Stimmen deiner Frau und deines Sohnes aus dem Feuer.</text>
+	<optionCount>2</optionCount>
 	<option1>
-		<text>gehe rechts</text>
-		<result>2</result>
+		<text>Folge der Stimme deines Sohnes ins Feuer.</text>
+		<result>7</result>
 	</option1>
 	<option2>
-		<text>gehe links</text>
-		<result>3</result>
-	</option2> 
-	<option3>
-		<text>selbstmord</text>
-		<result>4</result>
-	</option3>
+		<text>Folge der Stimme deiner Frau ins Feuer.</text>
+		<result>8</result>
+	</option2>
 </screen> 
