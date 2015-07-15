@@ -2,22 +2,21 @@ Wenn du Ideen hast - das is der Ort dafür.
 
 Vorlage xml:
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
 
 <screen>
-	<id>1</id>
-	<text>es war einmal...</text>
-	<optionCount>3</optionCount>
+	<text></text>
+	<optionCount></optionCount>
 	<option1>
-		<text>gehe rechts</text>
-		<result>2</result>
+		<text></text>
+		<result></result>
 	</option1>
 	<option2>
-		<text>gehe links</text>
-		<result>3</result>
+		<text></text>
+		<result></result>
 	</option2> 
 	<option3>
-		<text>selbstmord</text>
-		<result>4</result>
+		<text></text>
+		<result></result>
 	</option3>
 </screen> 
